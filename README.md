@@ -53,3 +53,6 @@ Provide instructions and examples for use. Include screenshots as needed.
 ```md
 ![alt text](assets/images/MealFinder_desktop_mobile.jpg)
 ```
+## Presentation
+
+https://docs.google.com/presentation/d/1shhGzxwBBpFsVhGxBLmtFPiRO5uUYfsu_lQfhqQg4hg/edit?usp=sharing
